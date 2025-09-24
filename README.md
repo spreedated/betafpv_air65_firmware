@@ -24,13 +24,15 @@ It's for the **Racing** Version (***27kKV***), but should work on all other KVs.
 
 ## Screenshots
 
-![Indoor Powerloop](footage/indoor_powerloop.mp4)
+<p align="center">
+  <img src="footage/indoor_powerloop.mp4" alt="Indoor Powerloop">
+</p>
 
 ![ESC](esc/20250924_ESC.png)
 
 ![Rates](configs/betaflight-actual-rates.png)
 
-![Rates](configs/betaflight-german-legal-vtxtable.png)
+![vTX Table](configs/betaflight-german-legal-vtxtable.png)
 ---
 
 ## Disclaimer
