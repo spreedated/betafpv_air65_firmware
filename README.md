@@ -24,9 +24,7 @@ It's for the **Racing** Version (***27kKV***), but should work on all other KVs.
 
 ## Screenshots
 
-<p align="center">
-  <video src="footage/indoor_powerloop.mp4" width="500px" alt="Indoor Powerloop"/>
-</p>
+<video src="footage/indoor_powerloop.mp4" width="640" height="480" alt="Indoor Powerloop" controls />
 
 ![ESC](esc/20250924_ESC.png)
 
