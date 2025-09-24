@@ -18,7 +18,11 @@ It's for the **Racing** Version (***27kKV***), but should work on all other KVs.
 ## Notes
 - Drone: **BetaFPV Air65 Racing**  
 - FC: ***BETAFPVG473 (STM32G47X)*** (*AiO*)
-- ELRS: ***250Hz***
+- ESC: ***A-X layout***
+  - ***96kHz***, 48kHz feels *not correct*
+  - ***2S+*** should be used instead of ***1S***
+  - Overheatprotection can be safely turned off
+- ELRS: ***250Hz*** / ***2.4GHz***
 
 ---
 
